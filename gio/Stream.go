@@ -2,10 +2,11 @@ package gio
 
 import (
 	"fmt"
-	logger "github.com/Sirupsen/logrus"
 	"net"
 	"sync"
 	"time"
+
+	logger "github.com/sirupsen/logrus"
 )
 
 // Step value

@@ -7,8 +7,7 @@ import (
 	exp "github.com/hsfish/guacamole_client_go"
 	"github.com/hsfish/guacamole_client_go/gio"
 	"github.com/hsfish/guacamole_client_go/gnet"
-
-	logger "github.com/Sirupsen/logrus"
+	logger "github.com/sirupsen/logrus"
 )
 
 /**

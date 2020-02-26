@@ -6,8 +6,7 @@ import (
 	"time"
 
 	"github.com/hsfish/guacamole_client_go/gnet"
-
-	logger "github.com/Sirupsen/logrus"
+	logger "github.com/sirupsen/logrus"
 )
 
 // log instead of LoggerFactory
