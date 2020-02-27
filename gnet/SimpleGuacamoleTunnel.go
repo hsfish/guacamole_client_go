@@ -1,9 +1,8 @@
 package gnet
 
 import (
+	guid "github.com/gofrs/uuid"
 	"github.com/hsfish/guacamole_client_go/gprotocol"
-
-	guid "github.com/satori/go.uuid"
 )
 
 // SimpleGuacamoleTunnel ==> AbstractGuacamoleTunnel

@@ -1,11 +1,10 @@
 package gnet
 
 import (
+	guid "github.com/gofrs/uuid"
 	exp "github.com/hsfish/guacamole_client_go"
 	"github.com/hsfish/guacamole_client_go/gio"
 	"github.com/hsfish/guacamole_client_go/gprotocol"
-
-	guid "github.com/satori/go.uuid"
 )
 
 //InternalDataOpcode const Globle value
